@@ -1,5 +1,6 @@
 # slot-machine-exercise
 Colt Steele Developer and Bootcamp Instructor from Udemy assignment slot machine
+This is a basic slot machine using only React
 
 
 # What i learn?
