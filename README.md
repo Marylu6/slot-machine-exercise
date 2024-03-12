@@ -9,4 +9,4 @@ So, CodeSandbox wasn't running the code, and it could possibly be that the warni
 #
 git bash is not for external drives what a nightmare
 #
-i made a mess and i couldnt deploy it but atleast i submitted the code (i also cant upload all of the vite here) next time i need to watch the entire video before doing anyhting
+i made a mess and i couldnt deploy it but atleast i submitted the code (i also cant upload all of the vite here) next time i need to watch the entire tutorials video before doing anyhting man i miss the dislike button
