@@ -8,3 +8,5 @@ This is a basic slot machine using only React
 So, CodeSandbox wasn't running the code, and it could possibly be that the warnings prevented it from running. Therefore, I switched to running it locally and used Vite, which I think is way better. I learned that you need to pay attention to the words and icons. For example, if a pair of parentheses () is presented, it won't be treated as JavaScript. However, using ({}) will tell the machine that it is JavaScript, and it will run it as such.
 #
 git bash is not for external drives what a nightmare
+#
+i made a mess and i couldnt deploy it but atleast i submitted the code (i also cant upload all of the vite here) next time i need to watch the entire video before doing anyhting
